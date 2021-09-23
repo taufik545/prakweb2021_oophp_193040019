@@ -1,6 +1,7 @@
 <?php
 class Produk
 {
+  private $judul,
     $penulis,
     $penerbit,
     $harga,
